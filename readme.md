@@ -1,3 +1,5 @@
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]() [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)]() [![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)]() [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+
 # AI 写作助手（FastAPI + Streamlit）
 
 ## 📝 项目简介
